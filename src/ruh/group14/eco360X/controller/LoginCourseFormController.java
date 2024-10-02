@@ -6,7 +6,7 @@ import ruh.group14.eco360X.routing.Routing_1;
 
 import java.io.IOException;
 
-public class CoursesFormController {
+public class LoginCourseFormController {
     Routing_1 w1=new Routing_1();
 
     public void startNow_1_OnAction(ActionEvent actionEvent) throws IOException {
